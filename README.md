@@ -1,4 +1,4 @@
 angular
 =======
 
-Useful bits and pieces.
+Useful bits and pieces for Angular development.
